@@ -11,7 +11,7 @@
 </a>
 
 <br />
-<img width="369" height="359.5" align="right" alt="GIF" src="https://media1.tenor.com/images/237ff17bc98383883f1bcbb307a8f344/tenor.gif?itemid=17254754" />
+<img width="359" height="349.5" align="right" alt="GIF" src="https://media1.tenor.com/images/237ff17bc98383883f1bcbb307a8f344/tenor.gif?itemid=17254754" />
 
 ### I am Daniel Garcia
 - A Full-Stack Developer & Open Source enthusiast.
