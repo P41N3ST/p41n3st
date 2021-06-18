@@ -19,4 +19,4 @@
 - Currently working on some of my cool side projects based on Web Development
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P41N3ST&layout=compact)]
