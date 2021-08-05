@@ -10,7 +10,7 @@
   <img align="left" alt="Darshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-### I am Daniel Garcia
+### I am Dani Garcia
 - A Full-Stack Developer & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
 - Currently working on some of my cool side projects based on Web Development
