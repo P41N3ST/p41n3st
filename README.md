@@ -1,6 +1,5 @@
-<a href="https://github.com/QueeNFrisk">
-  <img align="left" alt="Dani's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+![image](https://user-images.githubusercontent.com/11914764/184830180-192f1cc3-98fa-48e9-917c-d5522c391cd8.png)
+
 
 <br />
 <!--<img width="359" height="349.5" align="right" alt="GIF" src="https://media1.tenor.com/images/237ff17bc98383883f1bcbb307a8f344/tenor.gif?itemid=17254754" />-->
