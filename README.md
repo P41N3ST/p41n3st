@@ -14,3 +14,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QueeNFrisk&layout=compact)](https://github.com/QueeNFrisk/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=QueeNFrisk&theme=onedark)](https://github.com/QueeNFrisk/github-profile-trophy)
+
+
