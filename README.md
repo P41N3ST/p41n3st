@@ -1,6 +1,3 @@
-<img width="359" height="349.5" align="right" alt="GIF" src="https://media1.tenor.com/images/237ff17bc98383883f1bcbb307a8f344/tenor.gif?itemid=17254754" />
-
-
 ### I am Dani Garcia
 - A Full-Stack Developer & Open Source enthusiast.
 - A Computer Engineering Undergraduate Student. 
